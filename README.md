@@ -1,4 +1,4 @@
-# Lite3 MuJoCo RL Locomotion 
+# Lite3 RL Training & Locomotion in MuJoCo
 
 ![Lite3 Walking Demo](lite3_walking.gif)
 
