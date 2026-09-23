@@ -26,3 +26,6 @@ While the default industry standard for Lite3 development leans heavily on NVIDI
 
 ## Deployment Roadmap (Sim to Real to follow)
 Active development is focused on bridging the policy to physical hardware via the Deep Robotics onboard SDK, mapping the trained PyTorch network weights into real-world motor commands.
+## Credits for stl and xml files
+Credit to Deep Robotics for Open sourced Lite3 Robo Dog stl and mjcf files
+Author has the right to RL pipeline developed indigenously
