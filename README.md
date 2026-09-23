@@ -1,6 +1,6 @@
 # Lite3 RL Training & Locomotion in MuJoCo
 
-![Lite3 Walking Demo](lite3_walking.gif)
+![Lite3 Walking Demo](source/lite3-rl-mujoco.gif)
 
 A native, high-efficiency Reinforcement Learning pipeline and simulation environment for the Deep Robotics Lite3 quadruped, built directly in MuJoCo.
 
